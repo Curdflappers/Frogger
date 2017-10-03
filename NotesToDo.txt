@@ -1,0 +1,25 @@
+To Do List:
+
+More Lanes
+	Hawks
+	Lilypad position Perfection
+	Snakes
+	
+More Mechanics
+	Car Crashes
+	Emergency Vehicles
+	Local multiplayer
+	Level designer
+	Endless/Classic toggle
+	Crossy Road coins?
+		
+More Aesthetics
+	Multi-colored cars
+	Different car models, sizes
+	More character skins
+		
+More Back-end Functionality
+	Worlds: track frogs, lanes generated
+		Allows for consistent world life; no lane-despawning
+		Just IS cleaner, you know?
+	Lane Modifiers: Sky/Ground (avoid overlap)
